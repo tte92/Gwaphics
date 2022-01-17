@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { FiUserCheck } from "react-icons/fi";
 import { googleIcon } from './AuthIcons';
 
+//hello
 const ExternalSignup = ({ changeView, demoLogin, animate }) => (
   <div className={animate ? 'animated auth-form' : 'auth-form'}>
     <h1>
